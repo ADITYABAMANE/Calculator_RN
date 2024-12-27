@@ -57,6 +57,16 @@ export const styles = StyleSheet.create({
       borderRadius: 10,
       marginHorizontal: 3,
     },
+    equalBtn: { 
+      alignItems: 'center',
+      backgroundColor: '#4CAF50', 
+      padding: 10,
+      width: '23%',
+      height: 70,
+      textAlign: 'center',
+      borderRadius: 10,
+      marginHorizontal: 3,
+    },
     btnText: {
       fontSize: 35,
     },
@@ -68,6 +78,6 @@ export const styles = StyleSheet.create({
     },
     footerText: {
       fontSize: 14,
-      color: '#888', 
+      color: '#888',
     },
 });
